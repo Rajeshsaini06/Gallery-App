@@ -1,0 +1,12 @@
+/* Write your code here. */
+li {
+  list-style: none;
+  margin: 0px;
+}
+
+button {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  opacity: 0.5;
+}
